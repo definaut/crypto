@@ -14,12 +14,14 @@ Leyendo este documento completo :smile:.
 //
 
 
-## Que es un "blockchain"
+## Que es el "blockchain"
 //
 
 
-## Que es "exchange"
-//
+## Que es un "exchange" y para que es
+Exchanges centralizados
+
+Exchanges decentralizados
 
 
 ## Que es una moneda estable
