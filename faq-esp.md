@@ -5,67 +5,80 @@ Este documento propone informar sobre algunas preguntas frecuentes en relacion a
 #### Contenido
 //
 
-## ¿Como empiezo en el mundo criptografico?
+
+## Como empezar en el mundo criptografico...
 Leyendo este documento completo :smile:.
 
-## ¿Que es una "cripto moneda"?
+
+## Que es una "cripto moneda"
 //
 
-## ¿Que es un "blockchain"?
+
+## Que es un "blockchain"
 //
 
-## ¿Que es "exchange"?
+
+## Que es "exchange"
 //
 
-## ¿Que es una moneda estable?
+
+## Que es una moneda estable
 //
 
-## ¿Como invierto en criptomonedas?
+
+## Como invierto en criptomonedas
 //
 
-## ¿Como aseguro mis ganancias de una criptomoneda?
+
+## Como aseguro mis ganancias de una criptomoneda
 //
 
-## ¿Como retiro mis ganacias a mi cuenta de banco?
+
+## Como retiro mis ganacias a mi cuenta de banco
 //
 
-## ¿Como se calcula el precio de una moneda?
+
+## Como se calcula el precio de una moneda
 //
 
-### Coin Stats
+
+### Stats
 - Price
 - Market Cap
 - Fully Diluted Market Cap
 - Supply
 
+
 ## Centralized Finances (CeFi)
 //
+
 
 ## Decentralized Finances (DeFi)
 //
 
+
 ## Rug Pulls
 //
 
-## ¿Como compro $CAKE?
+
+## PancakeSwap ($CAKE)
 //
 
-## ¿Que es "APY"? ¿Que es "compound"? ¿Como funciona?
+
+## APY, Compound, ¿Como funciona?
 //
 
-## ¿Que es "staking"?
+
+## Staking vs. Farming
+Staking
+
+Farming
+
+
+## Mineria en criptomonedas
 //
 
-## ¿Que es "farming"?
-//
-
-## ¿Staking vs. farming?
-//
-
-## ¿Que es la mineria en cripto?
-//
-
-## ¿Que significa "Impermanent Loss"?
+## Impermanent Loss
 //
 
 ## ¿Como hago research de proyecto? ¿Que factores debo tener en cuenta?
